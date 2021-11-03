@@ -1,0 +1,33 @@
+{
+    "cannabinoids" : {
+            "thc_percent" : null,
+            "thcv_percent" : null,
+            "cbd_percent" : null,
+            "cbg_percent" : null,
+            "cbn_percent" : null,
+            "cbc_percent" : null
+    },
+    "terpenes" : {
+        "alpha_bisabolol" : null,
+        "alpha_humulene" : null,
+        "alpha_phellandrene" : null,
+        "alpha_pinene" : null,
+        "alpha_terpinene" : null,
+        "beta_carophyllene" : null,
+        "beta_pinene" : null,
+        "borneol" : null,
+        "camphene" : null,
+        "carene" : null,
+        "carophyllene_oxide" : null,
+        "fenchol" : null,
+        "gamma_terpinene" : null,
+        "geraniol" : null,
+        "limonene" : null,
+        "linalool" : null,
+        "myrcene" : null,
+        "ocimene" : null,
+        "terpinolene" : null,
+        "alpha_terpineol" : null,
+        "total_nerolidol" : null
+    }
+}
